@@ -1,0 +1,8 @@
+Modelo de Base de Datos Relacional:
+https://lucid.app/lucidchart/953675e3-5bcb-4e36-a98a-f9064b1308a3/edit?viewport_loc=21%2C20%2C2190%2C1014%2C0_0&invitationId=inv_9af52f2e-767d-4237-abab-74d7634857e3
+
+Mockup:
+https://www.figma.com/file/RNeLIJk8PCQOv0bpuE59em/ParqueaF%C3%A1cil?node-id=0%3A1
+
+Historias de Usuario:
+https://epnecuador-my.sharepoint.com/:w:/g/personal/edwin_cocha_epn_edu_ec/EaGBsdnO899EofC57Sm0JdYBTiikFGgS63SNkhZ9VJu1LQ?e=fInaBj
