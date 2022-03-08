@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">EXAMEN IB</string>
+    <string name="welcome">APLICACIÓN PARA LLEVAR EL REGISTRO DE</string>
+    <string name="crear_button">Crear</string>
+    <string name="seleccione">Seleccione:</string>
+    <string name="bt_inicio">Autores</string>
+    <string name="autor_select">Seleccione un Autor:</string>
+    <string name="libro_select">Seleccione un Libro:</string>
+    <string name="autor_registro">Registrar Autor</string>
+    <string name="libro_registro">RegistrarLibro</string>
+    <string name="registro_Nombre">Nombre:</string>
+    <string name="registro_Titulo">Título del Libro:</string>
+    <string name="registro_Nacionalidad">Nacionalidad:</string>
+    <string name="registro_EdadA">Edad:</string>
+    <string name="registro_AnioPubli">Año de Publicación:</string>
+    <string name="registro_Disponibles">Ejemplares Disponibles:</string>
+    <string name="registro_Género">Género:</string>
+    <string name="registro_Precio">Precio:</string>
+    <string name="ingreso_Nombre">Ingrese Nombre</string>
+    <string name="registro_Edad">Edad:</string>
+    <string name="ingreso_Edad">Ingrese la Edad</string>
+    <string name="autor">AUTOR</string>
+    <string name="libro">LIBRO</string>
+    <string name="iniciar_Sistema">Iniciar Sistema</string>
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="guardar">Guardar</string>
+    <string name="ver_libros">Ver Libros</string>
+    <string name="actualizar_Autor_Titulo">Actualizar Autor</string>
+    <string name="actualizar_Libro_Titulo">Actualizar Libro</string>
+    <string-array name="generos_dialogo">
+        <item>Autoayuda</item>
+        <item>Aventura</item>
+        <item>Biográfico</item>
+        <item>Ciencia Ficción</item>
+        <item>Científico</item>
+        <item>Cuentos</item>
+        <item>Erotico</item>
+        <item>Novela</item>
+        <item>Poesía</item>
+        <item>Religioso</item>
+        <item>Romance</item>
+        <item>Terror</item>
+    </string-array>
+</resources>

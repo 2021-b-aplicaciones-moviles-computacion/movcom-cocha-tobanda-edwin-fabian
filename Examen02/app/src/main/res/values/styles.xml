@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="textViews">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">28dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+
+    <style name="textInserts">
+        <item name="android:layout_width">318dp</item>
+        <item name="android:layout_height">41dp</item>
+        <item name="android:layout_marginTop">4dp</item>
+        <item name="android:ems">10</item>
+        <item name="android:inputType">textPersonName</item>
+    </style>
+</resources>

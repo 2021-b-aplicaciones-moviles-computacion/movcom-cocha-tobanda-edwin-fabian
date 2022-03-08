@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "843493243443",
+    "project_id": "exameniib-appmov-autorlibro",
+    "storage_bucket": "exameniib-appmov-autorlibro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843493243443:android:ef29e7ded8a99bdeca8146",
+        "android_client_info": {
+          "package_name": "com.example.examen02"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843493243443-3galq2km767olns0vagm9e11a078g7ad.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn1aYsIfT6XTavzN6Zs8MD787aIiKi-b0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843493243443-3galq2km767olns0vagm9e11a078g7ad.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
